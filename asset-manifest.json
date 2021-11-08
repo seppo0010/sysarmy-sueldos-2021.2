@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sysarmy-sueldos-2021.2/static/css/main.095e5f73.chunk.css",
+    "main.js": "/sysarmy-sueldos-2021.2/static/js/main.de1d57b0.chunk.js",
+    "main.js.map": "/sysarmy-sueldos-2021.2/static/js/main.de1d57b0.chunk.js.map",
+    "runtime-main.js": "/sysarmy-sueldos-2021.2/static/js/runtime-main.86da5444.js",
+    "runtime-main.js.map": "/sysarmy-sueldos-2021.2/static/js/runtime-main.86da5444.js.map",
+    "static/js/2.691b23c2.chunk.js": "/sysarmy-sueldos-2021.2/static/js/2.691b23c2.chunk.js",
+    "static/js/2.691b23c2.chunk.js.map": "/sysarmy-sueldos-2021.2/static/js/2.691b23c2.chunk.js.map",
+    "index.html": "/sysarmy-sueldos-2021.2/index.html",
+    "precache-manifest.9dfe576ba0964ab1a781213fabcafb9b.js": "/sysarmy-sueldos-2021.2/precache-manifest.9dfe576ba0964ab1a781213fabcafb9b.js",
+    "service-worker.js": "/sysarmy-sueldos-2021.2/service-worker.js",
+    "static/css/main.095e5f73.chunk.css.map": "/sysarmy-sueldos-2021.2/static/css/main.095e5f73.chunk.css.map",
+    "static/js/2.691b23c2.chunk.js.LICENSE.txt": "/sysarmy-sueldos-2021.2/static/js/2.691b23c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86da5444.js",
+    "static/js/2.691b23c2.chunk.js",
+    "static/css/main.095e5f73.chunk.css",
+    "static/js/main.de1d57b0.chunk.js"
+  ]
+}
